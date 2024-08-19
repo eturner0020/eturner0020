@@ -11,7 +11,7 @@ skills by developing my personal webpage here on GitHub using GitHub Pages. I al
 OOP and different data structures such as vectors, lists, and arrays. I am making generic projects right now as I am simply trying to improve
 those skills, but if anyone has a project in mind that they feel my skills can contribute to please feel free to reach out to me.
 
-- 📫 I can be reached at my various social medias: Twitter = @eturner0020, Instagram = @evanjt20, GitHub = @eturner0020 or email = eturner0020@gmail.com.
+- 📫 I can be reached at my various social medias: Bluesky = Ev_Ops, GitHub = @eturner0020 or email = eturner.infosec@gmail.com.
 Please feel free to get in touch if you want to talk or work together on any projects.
 
 <!---
